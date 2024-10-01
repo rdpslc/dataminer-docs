@@ -18,3 +18,4 @@ At present, the following different versions of the solution are available:
 
 > [!NOTE]
 > For more information on the core EPM functionality available in DataMiner, see [Experience and Performance Management](xref:EPM)
+> For information on how to get started building DataMiner EPM solutions, see [EPM Integration Training](https://catalog.dataminer.services/details/b661f936-d6e7-447c-baee-f0a5503e75b4)
