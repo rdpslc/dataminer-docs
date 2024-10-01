@@ -9,3 +9,6 @@ DataMiner Experience and Performance Management (EPM), previously known as Custo
 The platform enables operators to collect valuable operational data from each relevant object in their ecosystem and to optimize the service quality and availability.
 
 DataMiner Experience and Performance Management can be deployed as a standalone platform with northbound interfaces for integration with your OSS/BSS. However, it can also be fully integrated into a DataMiner System.
+
+> [!NOTE]
+> For information on standard EPM solutions, see [DataMiner EPM Solution](xref:SolEPM)
